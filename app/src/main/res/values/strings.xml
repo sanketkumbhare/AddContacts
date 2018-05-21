@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AddContacts</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dummy_email">abcd@dfg.com</string>
+    <string name="dummy_phone">+91 1234567890</string>
+    <string name="dummy_name">Sanket</string>
+    <string name="message_no_contact">No Contact Found</string>
+    <string name="contacts">Contacts</string>
+    <string name="name">Name</string>
+    <string name="save">save</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="mPhone">Phone</string>
+    <string name="message_schedule_save">Schedule Save?</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search</string>
+</resources>
